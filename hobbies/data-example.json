@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Sports",
+    "description": "physical activity",
+    "frequency_per_week": 1
+  },
+  {
+    "name": "Eating",
+    "description": "physical activity",
+    "frequency_per_week": 200
+  },
+  {
+    "name": "Sleeping",
+    "description": "non-physical activity",
+    "frequency_per_week": 14
+  },
+  {
+    "name": "Kung-fu",
+    "description": "video game activity",
+    "frequency_per_week": 2000
+  }
+]

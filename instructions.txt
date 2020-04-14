@@ -1,0 +1,39 @@
+#################################################
+THE FINAL INSTRUCTIONS
+#################################################
+
+1) You may use your notes
+2) You may use the internet
+3) You may ask your classmates for support
+4) You CANNOT copy and paste code from the internet or your classmates
+5) You must submit your OWN work (cheating will result in an immediate zero)
+6) Test closes at 10pm sharp. You will receive a zero if you fail to submit by them
+7) Follow ALL the instructions under each file (there are 6 files in total)
+8) Code provided will be marked (even if the application fails)
+  a) A non-working application will lose 10%
+
+#################################################
+FILES YOU NEED TO COMPLETE
+#################################################
+
+1) /register.php
+2) /authenticate.php
+3) /logout.php
+4) hobbies/index.php
+6) hobbies/upload.php
+
+#################################################
+THE SQL TABLES
+(USE THE _connect.php SCRIPT PROVIDED)
+The below info is provided for support. You don'text
+need to create the tables locally
+#################################################
+
+users:
+  email varchar(100)
+  password varchar(100)
+
+hobbies:
+  name: varchar(100)
+  frequency_per_week: int(5)
+  description: text
